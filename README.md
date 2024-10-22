@@ -10,4 +10,6 @@ Despite the challenges, the research provided valuable insights into the manufac
 
 All technologies used in this research are public domain and met the research goals, enhancing the understanding and control of the PCB manufacturing process.
 
+The full thesis is available at [ResearchGate](https://doi.org/10.13140/RG.2.2.11516.14728).
+
 **Keywords**: Linear Regression, Data Mining, Manufacturing, Printed Circuit Boards, Cycle Time Prediction, Machine Learning, Python, NumPy, Weka, TensorFlow, PyTorch.
